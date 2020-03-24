@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "907219420254",
+    "firebase_url": "https://rvce-departments.firebaseio.com",
+    "project_id": "rvce-departments",
+    "storage_bucket": "rvce-departments.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:907219420254:android:df335955c571035ec860cf",
+        "android_client_info": {
+          "package_name": "com.inhall.rvcedepartments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "907219420254-v49bthh7uiu5es5rbaj0ocnmh99liem6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZHcGBHYtHYTgSNvx-9OCbOVTLY-z4vkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "907219420254-v49bthh7uiu5es5rbaj0ocnmh99liem6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
